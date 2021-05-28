@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="website" type="id" />
+    <item name="phonenumber" type="id" />
+    <item name="togglefavourite" type="id" />
+</resources>
